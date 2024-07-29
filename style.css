@@ -1,0 +1,41 @@
+h1{
+	text-align: center;
+	font-family: Open Sans;
+	text-decoration: underline;
+}
+
+h2{
+	color: #048B9A;
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+	font-family: Roboto, sans-serif;
+	border: 2px solid black;
+	padding: 10px;
+}
+
+body{
+	font-family: Open Sans, sans-serif;
+	color: black;
+	background-color: #c1d3fe;
+}
+
+img{
+	width: 400px;
+	height: 350px;
+	border: 4px solid;
+	color: white;
+}
+
+mark{
+	background: none;
+	font-style: oblique;
+	text-decoration: underline;
+}
+
+video{
+	border: 10px solid;
+	color: darkcyan;
+}
